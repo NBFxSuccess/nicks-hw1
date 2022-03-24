@@ -7,7 +7,7 @@ https://nbfxsuccess.github.io/nicks-hw1/
 
 
 ## Screenshot
-
+![Alt text](/assets/images/Capture.PNG "Application Screenshot")
 
 
 ## License
